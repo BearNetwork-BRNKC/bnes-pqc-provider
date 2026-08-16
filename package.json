@@ -1,0 +1,20 @@
+{
+  "name": "@bearnetwork/pqc-provider",
+  "version": "0.1.0",
+  "description": "BearNetworkChain PQC provider: ECDSA + ML-DSA-87 Quantum Envelope broadcaster",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@ethereumjs/rlp": "^10.1.2",
+    "@ethereumjs/util": "^9.1.0",
+    "ethereum-cryptography": "^3.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0"
+  }
+}
