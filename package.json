@@ -1,12 +1,12 @@
 {
   "name": "@bearnetwork/pqc-provider",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "BearNetworkChain PQC provider: ECDSA + ML-DSA-87 Quantum Envelope broadcaster",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/BearNetwork-BRNKC/bnes-pqc-provider"
+    "url": "git+https://github.com/BearNetwork-BRNKC/bnes-pqc-provider.git"
   },
   "homepage": "https://github.com/BearNetwork-BRNKC/bnes-pqc-provider#readme",
   "license": "MIT",
