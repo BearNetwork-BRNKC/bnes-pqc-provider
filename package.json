@@ -1,6 +1,6 @@
 {
   "name": "@bearnetwork/pqc-provider",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "BearNetworkChain PQC provider: ECDSA + ML-DSA-87 Quantum Envelope broadcaster",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
